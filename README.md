@@ -10,7 +10,7 @@
 
 <br>
 
-- An IT student
+- IT student
 - Always looking to improve myself in my spare time
 - Currently learning Web Development
 - Personal website [link](https://profile-five-wine.vercel.app/)
