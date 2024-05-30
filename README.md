@@ -13,7 +13,7 @@
 - An IT student
 - Always looking to improve myself in my spare time
 - Currently learning Web Development
-- Personal website [link]((https://profile-five-wine.vercel.app/))
+- Personal website [link](https://profile-five-wine.vercel.app/)
 
 <br><br>
 
